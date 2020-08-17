@@ -29,8 +29,7 @@ github_username:  jg-storey
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-clean-blog
-
+theme: Slate
 plugins:
   - jekyll-feed
 
