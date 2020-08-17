@@ -22,7 +22,7 @@ categories: jekyll update
 
 This is my first post. Next task is to find out how to add images, links and video to the content using markdown.
 
-Here is an inline image ![pic1](/assets/img/1.jpg)
+Here is an inline image ![pic1](/jekylltest/assets/img/1.jpg)
 
 Link to a video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EJs75--K2Rk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
